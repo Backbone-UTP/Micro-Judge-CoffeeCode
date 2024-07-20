@@ -1,0 +1,45 @@
+{
+    "Accepted" : {
+        "idSubmission": "aba4bfce-f64a-4625-9716-12345b3847a0",
+        "idProblem": "aba4bfce-f64a-4625-9716-59215b3847a0",
+        "idUser": 6,
+        "idLenguage": 1,
+        "sendingTime": "2022-03-02T00:00:00.000Z",
+        "code": "#include <bits/stdc++.h> \nusing namespace std; \nint main(){ \nint a, b; \ncin >> a >> b; \ncout << a + b << endl;// while (true)// {//     a++;//}\n}"
+    },
+
+    "Wrong Answer": {
+        "idSubmission": "aba4bfce-f64a-4625-9716-1234563847a0",
+        "idProblem": "aba4bfce-f64a-4625-9716-59215b3847a0",
+        "idUser": 6,
+        "idLenguage": 4,
+        "sendingTime": "2022-03-02T00:00:00.000Z",
+        "code": "#include <bits/stdc++.h> \nusing namespace std; \nint main(){ \nint a, b; \ncin >> a >> b; \ncout << a * b << endl;// while (true)// {//     a++;//}\n}"
+    },
+
+    "TimeLimit": {
+        "idSubmission": "aba4bfce-f64a-4625-9716-1234573847a0",
+        "idProblem": "aba4bfce-f64a-4625-9716-59215b3847a0",
+        "idUser": 6,
+        "idLenguage": 5,
+        "sendingTime": "2022-03-02T00:00:00.000Z",
+        "code": "#include <bits/stdc++.h> \nusing namespace std; \nint main(){ \nint a, b; \nwhile (true) { a++;}\n}"
+    },
+    "Run Time Error": {
+        "idSubmission": "aba4bfce-f64a-4625-9716-1234583847a0",
+        "idProblem": "aba4bfce-f64a-4625-9716-59215b3847a0",
+        "idUser": 6,
+        "idLenguage": 6,
+        "sendingTime": "2022-03-02T00:00:00.000Z",
+        "code": "#include <bits/stdc++.h> \nusing namespace std; \nint main(){ \nint a[10]; for(int i=0; i<100; i++) a[i] = i; \n}"
+    },
+
+    "Compilation Error": {
+        "idSubmission": "aba4bfce-f64a-4625-9716-1234593847a0",
+        "idProblem": "aba4bfce-f64a-4625-9716-59215b3847a0",
+        "idUser": 6,
+        "idLenguage": 7,
+        "sendingTime": "2022-03-02T00:00:00.000Z",
+        "code": ""
+    }
+}
